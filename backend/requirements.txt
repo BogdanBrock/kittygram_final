@@ -10,4 +10,5 @@ pytest-django==4.4.0
 pytest-pythonpath==0.7.3
 Cython==3.0.0
 python-dotenv==1.0.1
+libyaml-dev
 PyYAML==6.0.0
